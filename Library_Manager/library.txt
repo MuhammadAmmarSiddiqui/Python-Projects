@@ -1,0 +1,3 @@
+{'title': 'PYTHON', 'author': 'AMMAR', 'pubication date': '2025', 'genre': 'Programming', 'read status': 'no'}
+{'title': 'NEXTJS', 'author': 'ABDULLAH', 'pubication date': '2025', 'genre': 'Programming', 'read status': 'no'}
+{'title': 'URDU', 'author': 'AMMAR', 'pubication date': '2025', 'genre': 'Languahe', 'read status': 'yes'}
